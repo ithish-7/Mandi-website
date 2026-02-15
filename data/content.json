@@ -1,0 +1,155 @@
+{
+  "global": {
+    "companyName": "MANDI",
+    "contactEmail": "flavor@mandi.com",
+    "buttons": {
+      "navbarReserve": "Reserve",
+      "homeHero": "Book a Table",
+      "homeMenu": "Explore the Full Menu",
+      "homeSecret": "Discover the Secret"
+    },
+    "footer": {
+      "tagline": "A celebration of tradition, smoke, and spice. Delivering the authentic taste of slow-cooked perfection to your table.",
+      "copyright": "© 2026 Mandi Restaurant — All Rights Reserved",
+      "subtext": "Project by ithishjonnes.com",
+      "address": "Shivasai Nilayam, Attapur, Hyderguda, Keshav Nagar Colony, Hyderabad, Telangana 500048"
+    },
+    "social": [
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/mandi_house_restaurant/"
+      },
+      {
+        "name": "WhatsApp",
+        "url": "https://wa.me/917207667827"
+      }
+    ]
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "title": "MANDI",
+        "subtitle": "An Artistic Assembly of Flavor",
+        "backgroundImage": ""
+      },
+      "chapterOne": {
+        "tagline": "Chapter One",
+        "title": "GOLDEN FOUNDATION",
+        "description": "Long-grain Basmati, infused with the essence of Saffron and eighteen distinct Yemeni spices.",
+        "image": ""
+      },
+      "chapterTwo": {
+        "tagline": "Chapter Two",
+        "title": "THE SMOKED SOUL",
+        "description": "Slow-cooked in a traditional 'Teboon' underground oven. Transformed by the gentle heat of charcoal and oak.",
+        "image": ""
+      },
+      "finalAssembly": {
+        "title": "THE FINAL ASSEMBLY"
+      },
+      "signature": {
+        "tagline": "The Signature",
+        "title": "CHEF'S MANDI RIBS.",
+        "description": "Our most celebrated dish. Smoked for twelve hours and glazed with our signature honey-chili reduction. A marriage of tradition and modern culinary art.",
+        "image": "/uploads/1771080503925-01.png"
+      }
+    },
+    "about": {
+      "hero": {
+        "tagline": "Since 1984",
+        "title": "OUR STORY.",
+        "description": "Mandi is not just a dish; it's a centuries-old tradition born in the rugged mountains of Yemen and perfected in our smokehouses."
+      },
+      "philosophy": {
+        "title": "THE RITE OF SMOKE.",
+        "description": "We believe in the slow way. We cook our meat underground for twelve hours, allowing the gentle heat of charcoal to tenderize every fiber without losing a drop of juice.",
+        "image": "",
+        "stats": [
+          {
+            "label": "Slow Cooked",
+            "value": "12HR"
+          },
+          {
+            "label": "Secret Spices",
+            "value": "18+"
+          }
+        ]
+      },
+      "mission": {
+        "tagline": "Authenticity • Tradition • Excellence",
+        "text": "To preserve the soul of Yemenite cuisine while serving it on a global stage of luxury."
+      }
+    },
+    "menu": {
+      "hero": {
+        "title": "MENU.",
+        "subtitle": "A Curated Selection of Perfection"
+      },
+      "categories": [
+        {
+          "name": "The Classics",
+          "items": [
+            {
+              "name": "Signature Mutton Mandi",
+              "price": "$32",
+              "desc": "Our award-winning slow-cooked tender mutton over saffron basmati."
+            },
+            {
+              "name": "Smoked Chicken Mandi",
+              "price": "$24",
+              "desc": "Oak-smoked chicken quarters with our signature garlic dip."
+            },
+            {
+              "name": "Yemeni Ribs Special",
+              "price": "$48",
+              "desc": "12-hour underground smoked ribs with honey-chili glaze."
+            }
+          ]
+        },
+        {
+          "name": "Small Plates",
+          "items": [
+            {
+              "name": "Marak Soup",
+              "price": "$12",
+              "desc": "Traditional lamb broth with lime and fresh coriander."
+            },
+            {
+              "name": "Hand-Cut Salata",
+              "price": "$10",
+              "desc": "Finely diced vegetables with olive oil and sumac."
+            },
+            {
+              "name": "Lamb Sambousa",
+              "price": "$14",
+              "desc": "Flaky pastry filled with spiced minced lamb."
+            }
+          ]
+        }
+      ],
+      "footerNote": "Prices are exclusive of taxes and service charge",
+      "pdfUrl": "/uploads/1771068759048-Chicken-Mandi.pdf"
+    },
+    "contact": {
+      "hero": {
+        "title": "CONTACT.",
+        "description": "For reservations, private dining, or general inquiries, please reach out to our team directly."
+      },
+      "info": {
+        "reservations": {
+          "phone": "+91 72076 67827",
+          "email": "dine@mandirestaurant.com"
+        },
+        "location": {
+          "title": "Location",
+          "address": "Shivasai Nilayam, Attapur, Hyderguda, Keshav Nagar Colony, Hyderabad, Telangana 500048"
+        },
+        "hours": {
+          "time": "12 PM – 11 PM",
+          "days": "Monday – Sunday"
+        }
+      },
+      "footerTagline": "Authenticity • Tradition • Excellence"
+    }
+  }
+}
